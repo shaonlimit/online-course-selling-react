@@ -1,0 +1,7 @@
+
+.cart-detail td:nth-child(1){
+    text-align: center;
+}
+td {
+    border: 1px solid black;
+}
